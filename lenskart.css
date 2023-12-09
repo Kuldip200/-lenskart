@@ -1,0 +1,628 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.fnav{
+display: flex;
+justify-content: center;
+justify-content: space-between;
+margin-left: 3%;
+margin-right: 3%;
+background-color:rgba(128, 128, 128, 0.039); 
+padding: 2%;
+color: black;
+}
+.fnav img{
+    width: 150px;
+    height: auto;
+    margin-top: 3%;
+}
+.fnav input{
+ width: 300px;  
+ height: 25px; 
+ border: 2px solid grey;
+ margin-top: 3.5%;
+}
+.fnav p{
+margin-top: 4%; 
+font-size: 17px;   
+}
+.snav{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 2%;
+    justify-content: space-between;
+    background-color: rgba(128, 128, 128, 0.144);
+    padding: 2%;
+}
+.snav img{
+ width: 5%;   
+ height: 3%;
+ 
+}
+.snav p{
+    margin-top: 0.5%;
+    color: black;
+}
+.lens{
+display: flex; 
+margin-left: 4%; 
+margin-left: 2%;
+
+margin-top: 2%;
+gap: 2%;
+color: rgb(138, 136, 136);
+background-color: rgb(247, 240, 255);
+
+
+}
+.goggles{
+    border: 2px solid #f5f5f5;   
+    background-color:white; 
+    padding: 1%;
+    border-radius: 10px;
+}
+.goggles img{
+width:80%;
+border: 2px solid #f5f5f5;  
+align-items: center;
+margin-left: 8%;
+
+}
+.goggles p{
+text-align: center;
+margin-top: 5%;
+}
+.eye-conic{
+ margin-top: 2.5%;   
+ 
+}
+.eye-conic img{
+width: 100%;
+}
+.purpose{
+ margin-top: 1.5%;   
+}
+.purpose img{
+ width: 100%;   
+}
+.cart{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+margin-top: 4%;
+}
+.cart .card{
+ text-align: center;   
+}
+.card p{
+  font-weight: 400;  
+}
+.card button {
+ width: 100px;
+ height: 33px;
+background-color: rgb(52,180,180);  
+border-radius: 2px;
+border: none;
+font-size: 16px;
+font-weight: 600;
+margin-top: 1%;
+}
+.johan{
+ margin-top: 4%;
+ display: flex;  
+ justify-content: center;
+justify-content: space-around; 
+}
+
+.johan p{  
+ font-size: 30px; 
+ top: 5%;
+ background-color:  rgba(138, 136, 136, 0.332);
+}  
+.photo3 img{
+    width: 100%;
+}
+.photo3{
+    margin-top: 2%;
+} 
+.roy{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+}  
+.photo4{
+  margin-top: 2%;  
+}
+.photo4 img{
+    width: 100%;
+}
+.tank{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo5{
+    margin-top: 2%;  
+  }
+  .photo5 img{
+      width: 100%;
+  }
+  .johar{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo6{
+    margin-top: 2%;  
+  }
+  .photo6 img{
+      width: 100%;
+  }
+  .trending{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo7{
+    margin-top: 2%;  
+  }
+  .photo7 img{
+      width: 100%;
+  }
+  .ojos{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo8{
+    margin-top: 2%;  
+  }
+  .photo8 img{
+      width: 100%;
+  }
+  .lenses{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo9{
+    margin-top: 2%;  
+  }
+  .photo9 img{
+      width: 100%;
+  }
+  .save{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo10{
+    margin-top: 2%;  
+  }
+  .photo10 img{
+      width: 100%;
+  }
+  .more{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo11{
+    margin-top: 2%; 
+    display: flex;
+    justify-content: center;
+    justify-content: space-around; 
+  }
+  .photo11 img{
+      width: 40%;
+
+  }     
+  .way{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.main{
+    margin-top: 2%; 
+    display: flex;
+    justify-content: center;
+    justify-content: space-around; 
+  }
+  .photo12 img{
+      width: 42%;
+margin-left:5%;
+  }     
+ 
+  .photo13 img{
+    width: 42%;
+margin-left:5%;
+margin-top: 1%;
+}
+.our{
+    margin-top: 4%; 
+    display: flex;
+    justify-content: center;
+   justify-content: space-around; 
+   font-size: 40px; 
+   color: black;   
+} 
+.photo14{
+    margin-top: 2%; 
+    display: flex;
+    justify-content: center;
+    justify-content: space-around; 
+  }
+  .photo14 img{
+      width: 100%;
+ } 
+ .line5{
+ border: 2px solid rgba(128, 128, 128, 0.655); 
+ width: 80%; 
+  margin-left: 10%;
+margin-right: 10%;
+ }   
+ .chashma{
+  margin-top: 3%; 
+  margin-left: 10%;
+font-size: 25px; 
+ } 
+ .chashma2{
+    margin-top: 2%; 
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%; 
+    gap: 10%;
+    }
+.chashma2 img {
+ width: 25%;   
+}
+.line6{
+    border: 2px solid rgba(128, 128, 128, 0.655); 
+    width: 80%; 
+     margin-left: 10%;
+   margin-right: 10%;
+    }   
+    .chashma3{
+     margin-top: 3%; 
+     margin-left: 10%;
+   font-size: 25px; 
+    } 
+    .chashma4{
+       margin-top: 2%; 
+       display: flex;
+       justify-content: center;
+       margin-left: 10%;
+       margin-right: 10%; 
+       gap: 10%;
+       }
+   .chashma4 img {
+    width: 25%;   
+   }
+   .photo15{
+    margin-top: 3%;
+}
+.photo15 img{
+width: 100%;
+}
+.chashma5{
+    margin-top: 3%; 
+    margin-left: 10%;
+  font-size: 25px; 
+   } 
+   .chashma6{
+      margin-top: 2%; 
+      display: flex;
+      justify-content: center;
+      margin-left: 10%;
+      margin-right: 10%; 
+      gap: 10%;
+      }
+  .chashma6 img {
+   width: 25%;   }
+   .line7{
+    border: 2px solid rgba(128, 128, 128, 0.655); 
+    width: 80%; 
+     margin-left: 10%;
+   margin-right: 10%;
+    } 
+
+    .chashma7{
+        margin-top: 3%; 
+        margin-left: 10%;
+      font-size: 25px; 
+       } 
+       .chashma8{
+          margin-top: 2%; 
+          display: flex;
+          justify-content: center;
+          margin-left: 10%;
+          margin-right: 10%; 
+          gap: 10%;
+          }
+      .chashma8 img {
+       width: 25%;   }
+       .line8{
+        border: 2px solid rgba(128, 128, 128, 0.655); 
+        width: 80%; 
+         margin-left: 10%;
+       margin-right: 10%;
+        }         
+ .photo20{
+ margin-top:2%;   
+ }       
+ .photo20 img{
+ width: 100%;   
+ }
+ .chashma9{
+    margin-top: 3%; 
+    margin-left: 10%;
+  font-size: 25px; 
+   } 
+   .chashma10{
+      margin-top: 2%; 
+      display: flex;
+      justify-content: center;
+      margin-left: 10%;
+      margin-right: 10%; 
+      gap: 10%;
+      }
+  .chashma10 img {
+   width: 25%;   }
+   .line10{
+    border: 2px solid rgba(128, 128, 128, 0.655); 
+    width: 80%; 
+     margin-left: 10%;
+   margin-right: 10%;
+    } 
+    .photo21{
+        margin-top:2%;   
+        }       
+ .photo21 img{
+ width: 100%;   
+   }        
+   .chashma11{
+    margin-top: 3%; 
+    margin-left: 10%;
+  font-size: 25px; 
+   } 
+   .chashma12{
+      margin-top: 2%; 
+      display: flex;
+      justify-content: center;
+      margin-left: 10%;
+      margin-right: 10%; 
+      gap: 10%;
+      }
+  .chashma12 img {
+   width: 25%;   }
+   .line12{
+    border: 2px solid rgba(128, 128, 128, 0.655); 
+    width: 80%; 
+     margin-left: 10%;
+   margin-right: 10%;
+    }   
+    .photo22{
+        margin-top:2%;   
+        }       
+ .photo22 img{
+ width: 100%;   
+   }         
+   .chashma13{
+    margin-top: 3%; 
+    margin-left: 10%;
+  font-size: 25px; 
+   } 
+   .chashma14{
+      margin-top: 2%; 
+      display: flex;
+      justify-content: center;
+      margin-left: 10%;
+      margin-right: 10%; 
+      gap: 10%;
+      }
+  .chashma14 img {
+   width: 25%;   }
+   .line14{
+    border: 2px solid rgba(128, 128, 128, 0.655); 
+    width: 80%; 
+     margin-left: 10%;
+   margin-right: 10%;
+    }   
+    .chashma15{
+        margin-top: 3%; 
+        margin-left: 10%;
+      font-size: 25px; 
+       } 
+       .chashma16{
+          margin-top: 2%; 
+          display: flex;
+          justify-content: center;
+          margin-left: 10%;
+          margin-right: 10%; 
+          gap: 10%;
+          }
+      .chashma16 img {
+       width: 25%;   }
+       .line16{
+        border: 2px solid rgba(128, 128, 128, 0.655); 
+        width: 80%; 
+         margin-left: 10%;
+       margin-right: 10%;
+        }   
+        .photo23{
+            margin-top:3%;   
+            }       
+     .photo23 img{
+     width: 100%;   
+       }        
+       .chashma17{
+        margin-top: 3%; 
+        margin-left: 10%;
+      font-size: 25px; 
+       } 
+       .chashma18{
+          margin-top: 2%; 
+          display: flex;
+          justify-content: center;
+          margin-left: 10%;
+          margin-right: 10%; 
+          gap: 10%;
+          }
+      .chashma18 img {
+       width: 25%;   }
+       .line18{
+        border: 2px solid rgba(128, 128, 128, 0.655); 
+        width: 80%; 
+         margin-left: 10%;
+       margin-right: 10%;
+        }   
+        .chashma19{
+            margin-top: 3%; 
+            margin-left: 10%;
+          font-size: 25px; 
+           } 
+           .chashma20{
+              margin-top: 2%; 
+              display: flex;
+              justify-content: center;
+              margin-left: 10%;
+              margin-right: 10%; 
+              gap: 10%;
+              }
+          .chashma20 img {
+           width: 25%;   }
+           .line20{
+            border: 2px solid rgba(128, 128, 128, 0.655); 
+            width: 80%; 
+             margin-left: 10%;
+           margin-right: 10%;
+            }  
+            .photo24{
+                margin-top:3%;   
+                }       
+         .photo24 img{
+         width: 100%;   
+           }
+.footer{
+color: #f5f5f5;
+display: flex;
+background-color: rgb(26,26,84);
+flex-wrap: wrap;
+}  
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: auto;
+    background-color:rgb(26,26,84);
+    padding: 60px 10%;
+    color: #f5f5f5;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer-col{
+    width: 25%;
+}
+
+.footer-col h4{
+    position: relative;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    background-color: #27c0ac;
+    height: 2px;
+    width: 40px;
+}
+
+ul li:not(:last-child){
+    margin-bottom: 8px;
+}
+
+ul li a{
+    display: block;
+    font-size: 19px;
+    text-transform: capitalize;
+    color: #f5f5f5;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+ul li a:hover{
+    color: white;
+    padding-left: 2px;
+}
+
+.links a{
+    display: inline-block;
+    height: 44px;
+    width: 44px;
+    color: white;
+    background-color: rgba(40, 130, 214, 0.8);
+    margin: 0 8px 8px 0;
+    text-align: center;
+    line-height: 44px;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+.links img{
+width: 40%;
+}
+
+@media(max-width: 740px){
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .footer-col h4::before{
+        all: unset;
+    }
+}
+
+@media(max-width: 555px){
+    .footer-col{
+        width: 100%;
+    }
+}
